@@ -1,8 +1,8 @@
-# kali-confs
-Kali Linux Configurations
+# Linux Customizations
+*If mentioned folder(s) does not exist, you have to create the folder(s)*
 
-[Theme](https://www.xfce-look.org/p/1273208)
+Extract [theme](https://www.xfce-look.org/p/1273208) to `~/.local/share/themes`
 
-[Icons](https://www.xfce-look.org/p/2011655)
+Extract [icons](https://www.xfce-look.org/p/2011655) to `~/.local/share/icons`
 
-[Cursor](https://www.xfce-look.org/p/1813067)
+Extract [cursor](https://www.xfce-look.org/p/1813067) to  `~/.icons`
